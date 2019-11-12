@@ -4,18 +4,24 @@
 Este projeto é uma simples implementação da interface do app **SnapChat**, conta com animações e com a conexão a câmera, caso você esteja interessado em implementar este projeto, ou tomar como base para fazer o seu próprio, fique à vontade.
 
 ## Dependências utilizadas
-Neste projeto foram utilizadas previamente duas dependências, são elas : 
-`native-Base` :  é basicamente um framework com vários componentes prontos e já implementados com base no Material Design, ele nos ajuda na hora de escrever os códigos.
+Neste projeto foram utilizadas previamente duas dependências, são elas : <br/>
+`native-Base` :  é basicamente um framework com vários componentes prontos e já implementados com base no Material Design, ele nos ajuda na hora de escrever os códigos.<br/>
 `Swipe` : é um componente que nos ajuda a alternar entre as telas providas pela aplicação, ele pode tanto alternar horizontalmente como verticalmente.
 
 ## Configure o projeto
-Para configurar o projeto na sua máquina, siga os passos:
+Para configurar o projeto na sua máquina, siga os passos:<br/>
 Clone o repositório ou faça um fork e clone do seu próprio github :)
-`$ git clone https://github.com/hitallow/Snapchat-clone.git  `
+<code>$ git clone https://github.com/hitallow/Snapchat-clone.git </code>
+<br/>
 Instale as dependências
-`$ npm install`
+<br/>
+<code>
+$ npm install
+</code>
+<br/>
 rode na sua máquina com o emulador ou smatphone conectado:
-`$ npm run` 
+<br/>
+<code>$ npm run android</code> 
 
 
 ## Desenvolvedor
